@@ -6,6 +6,7 @@ This repository brings together multiple small Python learning projects into one
 
 - `projects/firstpythonprogram` — a simple greeting program
 - `projects/bandnamegenerator_1` — a band name generator built from city and pet name inputs
+- `projects/Bill Calculator ` - a Bill Calculator That Gives Finall Bill Amount After Tip And also After spliting 
 
 ## Structure
 
@@ -19,8 +20,11 @@ Python-Projects/
 │   │   ├── README.md
 │   │   └── main.py
 │   └── bandnamegenerator_1/
-│       ├── README.md
-│       └── main.py
+│   |    ├── README.md
+│   |    └── main.py
+|   └── Bill Calculator/
+|   |   ├──README.MD
+|   |   └── main.py   
 └── shared/
 ```
 
@@ -33,6 +37,7 @@ From the repository root, run any project directly:
 ```bash
 python projects/firstpythonprogram/main.py
 python projects/bandnamegenerator_1/main.py
+python projects/bill calculator/main.py
 ```
 
 ## Future expansion
